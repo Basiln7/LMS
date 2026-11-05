@@ -1,0 +1,17 @@
+{
+  "event_id": "evt_demo_0001",
+  "occurred_at": "2026-11-05T09:30:00Z",
+  "student": {
+    "external_id": "cus_8812",
+    "email": "Jane.Doe@Example.com",
+    "full_name": "Jane Doe"
+  },
+  "enrollments": [
+    {
+      "action": "GRANT",
+      "course_id": "prod_react_mastery",
+      "expires_at": "2027-11-05T00:00:00Z",
+      "order_id": "ord_771"
+    }
+  ]
+}
